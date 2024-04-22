@@ -1,2 +1,2 @@
-# ELabs_AI-ML
+#Machine Learning Project
 AI-ML Learning
